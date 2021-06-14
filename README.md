@@ -4,6 +4,15 @@
 # Results:
 ![Credit_Risk_Analysis](capture1.png)
 
+![Credit_Risk_Analysis](capture2.png)
+
+![Credit_Risk_Analysis](capture3.png)
+
+![Credit_Risk_Analysis](capture4.png)
+
+![Credit_Risk_Analysis](capture5.png)
+
+![Credit_Risk_Analysis](capture6.png)
 
 
 # Summary:
